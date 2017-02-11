@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="15" tilewidth="24" tileheight="24" nextobjectid="1">
+ <tileset firstgid="1" name="Terrian" tilewidth="24" tileheight="24" tilecount="16" columns="16">
+  <image source="terrain.png" width="384" height="24"/>
+  <tile id="0">
+   <properties>
+    <property name="category" type="int" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="terrain" width="100" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzt2KENADAMBLF2/6WLixNwwJZ+gRzLOVTd5TGzeUM95vRo0aNFjxY9WvRo0aNFjxY9WvRo0aPF/wp+DxKBAD8=
+  </data>
+ </layer>
+</map>
